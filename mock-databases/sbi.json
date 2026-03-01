@@ -1,0 +1,8 @@
+{
+  "bank_name": "State Bank of India (Simulated CBS)",
+  "status": "active",
+  "accounts": [
+    { "account_id": "SBI-7732", "linked_mobile": "9876543210", "balance_inr": 4550.00, "last_tx": "DEBIT" },
+    { "account_id": "SBI-1198", "linked_mobile": "9998887776", "balance_inr": 12000.00, "last_tx": "CREDIT" }
+  ]
+}
