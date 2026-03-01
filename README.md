@@ -43,8 +43,8 @@ A Node.js-based routing engine that authenticates identity and settles funds wit
 
 *(Because our proprietary merchant interface is optimized for dedicated touch-based IoT screens, we have captured a live transaction flow below utilizing our simulated edge environment.)*
 
-**<video src="./assets/pulse-flow.mp4" controls="controls" style="max-width: 100%;">
-</video>**
+<video src="./assets/pulse-flow.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
