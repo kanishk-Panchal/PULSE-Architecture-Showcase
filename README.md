@@ -2,7 +2,7 @@
 
 ![Status: MVP Validated](https://img.shields.io/badge/Status-MVP%20Validated-success)
 ![Hardware Target: STM32L4](https://img.shields.io/badge/Hardware%20Target-STM32L4-blue)
-![Security: SHA-256 Edge Encryption](https://img.shields.io/badge/Security-SHA--256%20Edge%20Encryption-red)
+![Security: SHA-256 Edge Encryption](https://img.shields.io/badge/Security-SHA--256%20Encryption-red)
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-darkgray)
 
 > **🔒 INTELLECTUAL PROPERTY NOTICE:** > This repository is a **Public Architecture Showcase** created for the India Innovates summit. Due to the sensitive nature of financial routing and cryptographic biometric handling, the core microservices engine, mobile UI codebase, and hardware firmware are maintained in strict private repositories. 
@@ -43,15 +43,11 @@ A Node.js-based routing engine that authenticates identity and settles funds wit
 
 *(Because our proprietary merchant interface is optimized for dedicated touch-based IoT screens, we have captured a live transaction flow below utilizing our simulated edge environment.)*
 
+[![PULSE Live Demo](https://img.youtube.com/vi/OZC-bk4WfrM/maxresdefault.jpg)](https://youtu.be/OZC-bk4WfrM)
 
-https://github.com/kanishk-Panchal/PULSE-Architecture-Showcase/raw/main/assets/pulse-flow.mp4
 ---
 
 ## 🤝 Team ZeroLatency
 Built by a team of Computer Engineering students focused on high-leverage infrastructure.
-
-* **Kanishk Panchal** - Team Lead & Chief Architect
-* **Manish Verma** - Hardware & Systems Lead
-* **Krishna Sharma** - Product & UX Lead
 
 **Open for Incubation & Strategic Partnerships.**
