@@ -47,7 +47,12 @@ Click to watch live routing demo 👇
 [![PULSE Live Demo](https://img.youtube.com/vi/41Ip6RFHzG4/maxresdefault.jpg)](https://youtu.be/41Ip6RFHzG4)
 ---
 
-## 🤝 Team ZeroLatency
+## 📩 Get in Touch
+ **🤝 Team ZeroLatency**
+ 
 Built by a team of Computer Engineering students focused on high-leverage infrastructure.
 
+**Kanishk**
+* 📧 Email: kanishkpanchal007@gmail.com
+  
 **Open for Incubation & Strategic Partnerships.**
