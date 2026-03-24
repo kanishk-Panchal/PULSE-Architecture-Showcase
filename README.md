@@ -44,8 +44,7 @@ A Node.js-based routing engine that authenticates identity and settles funds wit
 *(Because our proprietary merchant interface is optimized for dedicated touch-based IoT screens, we have captured a live transaction flow below utilizing our simulated edge environment.)*
 
 Click to watch live routing demo 👇
-[![PULSE Live Demo](https://img.youtube.com/vi/OZC-bk4WfrM/maxresdefault.jpg)](https://youtu.be/OZC-bk4WfrM)
-
+[![PULSE Live Demo](https://img.youtube.com/vi/41Ip6RFHzG4/maxresdefault.jpg)](https://youtu.be/41Ip6RFHzG4)
 ---
 
 ## 🤝 Team ZeroLatency
