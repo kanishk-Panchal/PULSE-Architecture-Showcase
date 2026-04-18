@@ -48,7 +48,7 @@ Click to watch live routing demo 👇
 ---
 
 ## 📩 Get in Touch
- **🤝 Team ZeroLatency**
+ **🤝 Team Pulse Payments**
  
 Built by a team of Computer Engineering students focused on high-leverage infrastructure.
 
